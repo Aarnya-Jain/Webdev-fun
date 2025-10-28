@@ -70,7 +70,7 @@ function App() {
     <>
       <div className=''>
         <Navbar />
-        <div className="border-3 border-black mx-3 sm:mx-30 md:mx-50 xl:mx-70 2xl:mx-100 mt-10 p-5 rounded-lg">
+        <div className="border-3 border-black mx-3 sm:mx-30 md:mx-50 xl:mx-70 2xl:mx-100 mt-10 mb-5 p-5 rounded-lg">
           <div className="head text-4xl font-bold">Your Todos</div>
           <div className="body h-full mt-3">
             <div className="add flex gap-2">
